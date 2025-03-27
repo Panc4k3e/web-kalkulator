@@ -5,4 +5,5 @@ export function fakultet(tall) {
         result *= i;
     }
     return result;
+
 }
