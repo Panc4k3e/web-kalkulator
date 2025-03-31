@@ -1,6 +1,6 @@
 export function fibonacci(n) {
     if (n <= 0) return 0;
-    if (n <= 2) return 1;
+    if (n <= 2) return 2;
 
     let prev = 1;
     let current = 1;
